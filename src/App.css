@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+
+.conForm{
+  justify-content: center;
+  align-items: center;
+  width:500px;
+  margin:auto;
+  background-color: #61dafb;
+  margin-top: 40px;
+  border-radius: 10px;
+  padding:10px;
+}
+.conTable{
+  border-radius: 10px;
+  margin-top: 20px;
+}
+.error{
+  color:red
+}
+.ch {
+  justify-content: center;
+  background-color: #96aeb4;
+  border-radius: 10px;
+  align-items: center;
+  width:50%;
+  margin-top: 40px;
+  padding:20px;
+  margin:auto
+}
